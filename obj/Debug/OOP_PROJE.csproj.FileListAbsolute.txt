@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\OOP_PROJE\bin\Debug\OOP_PROJE.exe.config
+C:\Users\admin\source\repos\OOP_PROJE\bin\Debug\OOP_PROJE.exe
+C:\Users\admin\source\repos\OOP_PROJE\bin\Debug\OOP_PROJE.pdb
+C:\Users\admin\source\repos\OOP_PROJE\obj\Debug\OOP_PROJE.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\OOP_PROJE\obj\Debug\OOP_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\OOP_PROJE\obj\Debug\OOP_PROJE.exe
+C:\Users\admin\source\repos\OOP_PROJE\obj\Debug\OOP_PROJE.pdb
